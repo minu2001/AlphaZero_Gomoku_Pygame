@@ -1,0 +1,162 @@
+WARNING:root:
+CUDA: False
+AGENT: ZeroAgent
+MODEL: PVNet
+SEED: 0
+BOARD_SIZE: 9
+N_MCTS: 400
+TAU_THRES: 6
+N_BLOCKS: 10
+IN_PLANES: 5
+OUT_PLANES: 128
+N_SELFPLAY: 100
+MEMORY_SIZE: 30000
+N_EPOCHS: 1
+BATCH_SIZE: 32
+LR: 0.0002
+L2: 0
+WARNING:root:2025-09-18T16:34:08.377490
+WARNING:root:==========================================================
+WARNING:root:                       0 Iteration                      
+WARNING:root:==========================================================
+WARNING:root:
+CUDA: False
+AGENT: ZeroAgent
+MODEL: PVNet
+SEED: 0
+BOARD_SIZE: 9
+N_MCTS: 400
+TAU_THRES: 6
+N_BLOCKS: 10
+IN_PLANES: 5
+OUT_PLANES: 128
+N_SELFPLAY: 100
+MEMORY_SIZE: 30000
+N_EPOCHS: 1
+BATCH_SIZE: 32
+LR: 0.0002
+L2: 0
+WARNING:root:
+CUDA: False
+AGENT: ZeroAgent
+MODEL: PVNet
+SEED: 0
+BOARD_SIZE: 9
+N_MCTS: 400
+TAU_THRES: 6
+N_BLOCKS: 10
+IN_PLANES: 5
+OUT_PLANES: 128
+N_SELFPLAY: 100
+MEMORY_SIZE: 30000
+N_EPOCHS: 1
+BATCH_SIZE: 32
+LR: 0.0002
+L2: 0
+WARNING:root:2025-09-18T16:36:05.565087
+WARNING:root:==========================================================
+WARNING:root:                       0 Iteration                      
+WARNING:root:==========================================================
+WARNING:root:
+CUDA: True
+AGENT: ZeroAgent
+MODEL: PVNet
+SEED: 0
+BOARD_SIZE: 9
+N_MCTS: 400
+TAU_THRES: 6
+N_BLOCKS: 10
+IN_PLANES: 5
+OUT_PLANES: 128
+N_SELFPLAY: 100
+MEMORY_SIZE: 30000
+N_EPOCHS: 1
+BATCH_SIZE: 32
+LR: 0.0002
+L2: 0
+WARNING:root:2025-09-18T16:49:56.814969
+WARNING:root:==========================================================
+WARNING:root:                       0 Iteration                      
+WARNING:root:==========================================================
+WARNING:root:
+CUDA: True
+AGENT: ZeroAgent
+MODEL: PVNet
+SEED: 0
+BOARD_SIZE: 11
+N_MCTS: 400
+TAU_THRES: 6
+N_BLOCKS: 10
+IN_PLANES: 5
+OUT_PLANES: 128
+N_SELFPLAY: 100
+MEMORY_SIZE: 30000
+N_EPOCHS: 1
+BATCH_SIZE: 32
+LR: 0.0002
+L2: 0
+WARNING:root:2025-09-18T17:38:23.903917
+WARNING:root:==========================================================
+WARNING:root:                       0 Iteration                      
+WARNING:root:==========================================================
+WARNING:root:
+CUDA: True
+AGENT: ZeroAgent
+MODEL: PVNet
+SEED: 0
+BOARD_SIZE: 11
+N_MCTS: 400
+TAU_THRES: 6
+N_BLOCKS: 10
+IN_PLANES: 5
+OUT_PLANES: 128
+N_SELFPLAY: 100
+MEMORY_SIZE: 30000
+N_EPOCHS: 1
+BATCH_SIZE: 32
+LR: 0.0002
+L2: 0
+WARNING:root:
+CUDA: True
+AGENT: ZeroAgent
+MODEL: PVNet
+SEED: 0
+BOARD_SIZE: 11
+N_MCTS: 400
+TAU_THRES: 6
+N_BLOCKS: 10
+IN_PLANES: 5
+OUT_PLANES: 128
+N_SELFPLAY: 100
+MEMORY_SIZE: 30000
+N_EPOCHS: 1
+BATCH_SIZE: 32
+LR: 0.0002
+L2: 0
+WARNING:root:
+CUDA: True
+AGENT: ZeroAgent
+MODEL: PVNet
+SEED: 0
+BOARD_SIZE: 11
+N_MCTS: 400
+TAU_THRES: 6
+N_BLOCKS: 10
+IN_PLANES: 5
+OUT_PLANES: 128
+N_SELFPLAY: 100
+MEMORY_SIZE: 30000
+N_EPOCHS: 1
+BATCH_SIZE: 32
+LR: 0.0002
+L2: 0
+WARNING:root:Playing Episode  10
+WARNING:root:Playing Episode  20
+WARNING:root:Playing Episode  30
+WARNING:root:Playing Episode  40
+WARNING:root:Playing Episode  50
+WARNING:root:Playing Episode  60
+WARNING:root:Playing Episode  70
+WARNING:root:Playing Episode  80
+WARNING:root:Playing Episode  90
+WARNING:root:Playing Episode 100
